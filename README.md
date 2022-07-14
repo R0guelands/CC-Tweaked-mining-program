@@ -1,6 +1,8 @@
 # CC-Tweaked-mining-program
 This is a CC Tweaked mining turtle program to excavate the classic mining tunnels and deposit resources back at the base.
 
+if you need, here is the full documentation for CC Tweaked: https://tweaked.cc/
+
 # How to use it
 
 Before we begin, start by following this guide on how to build a [gps system](https://tweaked.cc/guide/gps_setup.html)
