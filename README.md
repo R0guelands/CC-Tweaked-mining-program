@@ -25,7 +25,7 @@ Without typing anything in this window, click the ctrl key, the enter key to sav
 Now alt tab minecraft, and go to `.minecraft/world/computercraft/disk/1` (if you are on a server, it will be `yourserverfolder/world/computercraft/disk`).
 Now clone this repository and replace de "test" file in there for the folder in this repository (exclude de readme).
 Back in minecraft, place your turtle with its back turned to the computer, than type `cd disks` and the enter key.
-Now it's you should only type the name of the file and every thing should work! (with you are not sure, type `ls` and the file will appear in the console).
+Now it's you should only type the name of the file and everything should work! (if you are not sure, type `ls` and the file will appear in the console).
 
 # How it works
 
