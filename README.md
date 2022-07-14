@@ -7,7 +7,7 @@ Before we begin, start by following this guide on how to build a [gps system](ht
 Then, position your turtle and place a chest in front of it (it will deposit the mined stuff in here), and another one in it's left side (for torches)
 
 Ok, now for the softaware:
-Firt, exec the program by typing it's name on the mining turtle's terminal.
+First, exec the program by typing it's name on the mining turtle's terminal.
 Then, insert the Y layer on witch the mining will happen (-45 is the best one)
 Second, insert the side tunnels size (I like to go with 40 in this one, as it creates this nice long structures)
 Third, insert how much in the X exis the turtle will mine (for every N you put, two side tunnels are created; ex: 3 -> 6 side tunnels)
